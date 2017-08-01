@@ -1,0 +1,4 @@
+// BusStop.java
+class BusStop{
+
+}

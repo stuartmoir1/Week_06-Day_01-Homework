@@ -1,0 +1,3 @@
+// Passenger.java
+class Passenger {
+}
